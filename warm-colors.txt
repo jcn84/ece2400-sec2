@@ -1,3 +1,6 @@
+#ifndef WARM_COLORS_TXT
+#define WARM_COLORS_TXT
 red
 orange
 yellow
+#endif
